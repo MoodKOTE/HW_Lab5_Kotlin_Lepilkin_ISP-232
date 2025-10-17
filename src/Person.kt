@@ -60,12 +60,12 @@ fun main() {
 //    group.listStudents()
 
     // задание 4
-    val calc = GeometryCalculator()
-    println("=== ПРЯМОУГОЛЬНИКИ ===")
-    calc.rectangleInfo(5, 7)
-    println("=== ТРЕУГОЛЬНИКИ ===")
-    calc.triangleInfo(3, 4, 5)
-    println("=== ОКРУЖНОСТИ ===")
-    calc.circleInfo(10)
+//    val calc = GeometryCalculator()
+//    println("=== ПРЯМОУГОЛЬНИКИ ===")
+//    calc.rectangleInfo(5, 7)
+//    println("=== ТРЕУГОЛЬНИКИ ===")
+//    calc.triangleInfo(3, 4, 5)
+//    println("=== ОКРУЖНОСТИ ===")
+//    calc.circleInfo(10)
 
 }
